@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Products", "Products\Products.csproj", "{E22C7D1F-420F-44E1-9CD5-BFB93F80CB65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Customer", "Customer\Customer.csproj", "{DCE068FA-F81C-45A6-8237-1D5293FEEC63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gateway", "Gateway\Gateway.csproj", "{64C7452F-33B2-4B93-B63A-F2616E5D0D7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E22C7D1F-420F-44E1-9CD5-BFB93F80CB65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E22C7D1F-420F-44E1-9CD5-BFB93F80CB65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E22C7D1F-420F-44E1-9CD5-BFB93F80CB65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E22C7D1F-420F-44E1-9CD5-BFB93F80CB65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCE068FA-F81C-45A6-8237-1D5293FEEC63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE068FA-F81C-45A6-8237-1D5293FEEC63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE068FA-F81C-45A6-8237-1D5293FEEC63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE068FA-F81C-45A6-8237-1D5293FEEC63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64C7452F-33B2-4B93-B63A-F2616E5D0D7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64C7452F-33B2-4B93-B63A-F2616E5D0D7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64C7452F-33B2-4B93-B63A-F2616E5D0D7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64C7452F-33B2-4B93-B63A-F2616E5D0D7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6166A79-120C-4165-915C-272BD5A0F495}
+	EndGlobalSection
+EndGlobal
